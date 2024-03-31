@@ -13,9 +13,9 @@ yum install screen
 screen -R minecraft-server
 # 获取脚本
 ## Debian
-curl -sSL https://d.mmeiblog.cn/file/minecraft-server-script/scripts/paper/paper1182.sh -o quick_install.sh && bash quick_install.sh
+curl -sSL https://d.mmeiblog.cn/file/minecraft-server-script/scripts/paper/1182.sh -o quick_install.sh && bash quick_install.sh
 ## Ubuntu
-curl -sSL https://d.mmeiblog.cn/file/minecraft-server-script/scripts/paper/paper1182.sh && sudo bash quick_start.sh
+curl -sSL https://d.mmeiblog.cn/file/minecraft-server-script/scripts/paper/1182.sh && sudo bash quick_start.sh
 ## RedHat / CentOS
-curl -sSL https://d.mmeiblog.cn/file/minecraft-server-script/scripts/paper/paper1182.sh && sh quick_start.sh
+curl -sSL https://d.mmeiblog.cn/file/minecraft-server-script/scripts/paper/1182.sh && sh quick_start.sh
 ```
