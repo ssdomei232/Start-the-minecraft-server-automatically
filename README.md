@@ -1,8 +1,7 @@
-# Start-the-minecraft-server-automatically
 自动下载并启动我的世界服务端的bash脚本   
-貌似没啥用   
 使用前记得看注释自己修改一下    
 下面以一个paper服务端做示例(可以使用)
+如果你需要更多脚本,可以访问[这里](https://d.mmeiblog.cn/help/minecraft-server-script.html)
 ```bash
 # 安装screen,如果装过了可以跳过
 ## Ubuntu / Debian
