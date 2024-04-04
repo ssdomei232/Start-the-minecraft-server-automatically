@@ -1,8 +1,8 @@
 自动下载并启动我的世界服务端的bash脚本   
 在使用此脚本前,我们认为您同意[Minecraft EULA协议  ](https://account.mojang.com/documents/minecraft_eula),如果您不同意,请不要使用此脚本
-使用前记得看注释自己修改一下    
-下面以一个paper服务端做示例(可以使用)
-如果你需要更多脚本,可以访问[这里](https://d.mmeiblog.cn/help/minecraft-server-script.html)
+使用前记得看注释自己修改一下      
+下面以一个paper服务端做示例(可以使用)   
+如果你需要更多脚本,可以访问[这里](https://d.mmeiblog.cn/help/minecraft-server-script.html)    
 此脚本分两步
 ### 1 安装screen并启动
 ```bash
